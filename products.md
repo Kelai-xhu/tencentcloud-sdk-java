@@ -256,5 +256,3 @@
 | weilingwith | [微瓴同业开放平台](https://cloud.tencent.com/document/product/1693) | 2025-02-28 02:12:17 |
 | wss | [SSL证书管理服务](https://cloud.tencent.com/document/product) | 2020-04-01 08:53:44 |
 | yinsuda | [音速达直播音乐版权引擎](https://cloud.tencent.com/document/product/1592) | 2024-06-05 02:38:46 |
-| youmall | [](https://cloud.tencent.com/document/product) | 2019-01-11 11:24:15 |
-| yunjing | [主机安全](https://cloud.tencent.com/document/product) | 2020-09-15 08:08:47 |
